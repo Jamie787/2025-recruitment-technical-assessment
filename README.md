@@ -1,3 +1,5 @@
+Completed the back end task and attempted part of the front end
+
 # DevSoc 2025 Subcommittee Recruitment Technical Assessment
 
 Hiya!
