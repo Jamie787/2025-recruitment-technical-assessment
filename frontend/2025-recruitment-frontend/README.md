@@ -1,0 +1,1 @@
+Run the file 'run.sh' to start the vite react server
